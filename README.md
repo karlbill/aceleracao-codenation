@@ -3,8 +3,8 @@
 
 ## Primeiro Módulo - Desafio: Criptografia de Júlio César
 Essa criptografia se baseava na substituição da letra do alfabeto avançado três casas. Por exemplo:
-* Normal: a ligeira raposa marrom saltou sobre o cachorro cansado
-* Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
+* Normal: <b>a ligeira raposa marrom saltou sobre o cachorro cansado</b>
+* Cifrado: <b>d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr</b>
 
 O objetivo desse desafio é que você automatiza a criptografia e descriptografia dessas menagens:
 * As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
