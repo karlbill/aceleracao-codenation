@@ -1,7 +1,7 @@
 # Aceleração Codenation
 ### Repositório criado para armazenar os desafios realizados na Aceleração da empresa Codenation, hoje Trybe.
 
-## Criptografia de Júlio César
+## Primeiro Módulo - Desafio: Criptografia de Júlio César
 Essa criptografia se baseava na substituição da letra do alfabeto avançado três casas. Por exemplo:
 * Normal: a ligeira raposa marrom saltou sobre o cachorro cansado
 * Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
